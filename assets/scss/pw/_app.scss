@@ -1,0 +1,17 @@
+html, body {
+	height: 100vh;
+	width: 100vw;
+	direction: rtl;
+	font-family: iryekan, Montserrat, cursive;
+}
+
+body {
+	a.navbar-brand {
+		font-family: Lalezar, Source Code Pro, cursive;
+		font-size: 25px;
+		& img {
+			width: 40px;
+			height: auto;
+		}
+	}
+}

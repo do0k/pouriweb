@@ -1,0 +1,43 @@
+@import "compass";
+@import url('https://fonts.googleapis.com/css?family=Lalezar|Montserrat|Source+Sans+Pro');
+
+@include font-face(
+		"iryekan",
+		font-files(
+				"iryekan/iranyekanwebbold.eot",
+				"iryekan/iranyekanwebbold.ttf",
+				"iryekan/iranyekanwebbold.woff",
+				"iryekan/iranyekanwebbold.woff2"
+		),
+		"iryekan/iranyekanwebbold.eot",
+		bold,
+		normal
+);
+@include font-face(
+		"iryekan",
+		font-files(
+				"iryekan/iranyekanweblight.eot",
+				"iryekan/iranyekanweblight.ttf",
+				"iryekan/iranyekanweblight.woff",
+				"iryekan/iranyekanweblight.woff2"
+		),
+		"iryekan/iranyekanweblight.eot",
+		300,
+		normal
+);
+@include font-face(
+		"iryekan",
+		font-files(
+				"iryekan/iranyekanwebregular.eot",
+				"iryekan/iranyekanwebregular.ttf",
+				"iryekan/iranyekanwebregular.woff",
+				"iryekan/iranyekanwebregular.woff2"
+		),
+		"iryekan/iranyekanwebregular.eot",
+		normal,
+		normal
+);
+
+.lalezar {
+	font-family: Lalezar, Source Code Pro, cursive;
+}

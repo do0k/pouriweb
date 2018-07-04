@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css?family=Lalezar|Montserrat|Source+Sans+Pro");
+@font-face {
+  font-family: "iryekan";
+  src: url('../../fonts/iryekan/iranyekanwebbold.eot?1522776760');
+  src: url('../../fonts/iryekan/iranyekanwebbold.eot?&1522776760#iefix') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanwebbold.eot?1522776760') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanwebbold.ttf?1519724869') format('truetype'), url('../../fonts/iryekan/iranyekanwebbold.woff?1519724861') format('woff'), url('../../fonts/iryekan/iranyekanwebbold.woff2?1519724820') format('woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+@font-face {
+  font-family: "iryekan";
+  src: url('../../fonts/iryekan/iranyekanweblight.eot?1522775802');
+  src: url('../../fonts/iryekan/iranyekanweblight.eot?&1522775802#iefix') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanweblight.eot?1522775802') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanweblight.ttf?1519724839') format('truetype'), url('../../fonts/iryekan/iranyekanweblight.woff?1519724833') format('woff'), url('../../fonts/iryekan/iranyekanweblight.woff2?1519724793') format('woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "iryekan";
+  src: url('../../fonts/iryekan/iranyekanwebregular.eot?1522776606');
+  src: url('../../fonts/iryekan/iranyekanwebregular.eot?&1522776606#iefix') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanwebregular.eot?1522776606') format('embedded-opentype'), url('../../fonts/iryekan/iranyekanwebregular.ttf?1519724856') format('truetype'), url('../../fonts/iryekan/iranyekanwebregular.woff?1519724843') format('woff'), url('../../fonts/iryekan/iranyekanwebregular.woff2?1519724811') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+/* line 41, ../../scss/pw/_fonts.scss */
+.lalezar {
+  font-family: Lalezar, Source Code Pro, cursive;
+}
+
+/* line 1, ../../scss/pw/_app.scss */
+html, body {
+  height: 100vh;
+  width: 100vw;
+  direction: rtl;
+  font-family: iryekan, Montserrat, cursive;
+}
+
+/* line 9, ../../scss/pw/_app.scss */
+body a.navbar-brand {
+  font-family: Lalezar, Source Code Pro, cursive;
+  font-size: 25px;
+}
+/* line 12, ../../scss/pw/_app.scss */
+body a.navbar-brand img {
+  width: 40px;
+  height: auto;
+}
