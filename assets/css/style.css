@@ -692,8 +692,8 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 }
 
 /* line 35, ../scss/shards/mixins/_forms.scss */
-.was-validated .form-control:valid, .form-control.is-valid, .was-validated
-.custom-select:valid,
+.was-validated .form-control:valid, .form-control.is-valid,
+.was-validated .custom-select:valid,
 .custom-select.is-valid {
   border-color: #17c671;
   box-shadow: 0 5px 11.5px rgba(23, 198, 113, 0.1);
@@ -5427,24 +5427,28 @@ a.text-black:hover, a.text-black:focus {
   font-style: normal;
 }
 /* line 41, ../scss/pw/_fonts.scss */
-.lalezar {
+.pw-logo-sharp {
   font-family: Lalezar, Source Code Pro, cursive;
+}
+
+/* line 45, ../scss/pw/_fonts.scss */
+.iryekan {
+  font-family: iryekan, Montserrat, cursive;
 }
 
 /* line 1, ../scss/pw/_app.scss */
 html, body {
   height: 100vh;
-  width: 100vw;
   direction: rtl;
   font-family: iryekan, Montserrat, cursive;
 }
 
-/* line 9, ../scss/pw/_app.scss */
+/* line 8, ../scss/pw/_app.scss */
 body a.navbar-brand {
   font-family: Lalezar, Source Code Pro, cursive;
   font-size: 25px;
 }
-/* line 12, ../scss/pw/_app.scss */
+/* line 11, ../scss/pw/_app.scss */
 body a.navbar-brand img {
   width: 40px;
   height: auto;
