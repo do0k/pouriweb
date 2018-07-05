@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4dabf639-8ab5-4968-891d-a7229a3d84d3" name="Default" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="4dabf639-8ab5-4968-891d-a7229a3d84d3" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.sass-cache/2bb3d3a48173a8fecb5e837ae8db62493387fe0d/_app.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/2bb3d3a48173a8fecb5e837ae8db62493387fe0d/_app.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.sass-cache/2bb3d3a48173a8fecb5e837ae8db62493387fe0d/_fonts.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/.sass-cache/2bb3d3a48173a8fecb5e837ae8db62493387fe0d/_fonts.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/pw/pw.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/pw/pw.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/scss/pw/_app.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/pw/_app.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/scss/pw/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/scss/pw/_fonts.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,11 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_app.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="_app.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/scss/pw/_app.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+            <state relative-caret-position="286">
+              <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -52,16 +49,7 @@
         <entry file="file://$PROJECT_DIR$/header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="227">
-              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="4233" column="9" lean-forward="true" selection-start-line="4233" selection-start-column="9" selection-end-line="4233" selection-end-column="9" />
+              <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
             </state>
           </provider>
         </entry>
@@ -98,9 +86,9 @@
         <option value="$PROJECT_DIR$/assets/scss/shards/bootstrap/bootstrap.scss" />
         <option value="$PROJECT_DIR$/assets/scss/shards/shards.scss" />
         <option value="$PROJECT_DIR$/assets/scss/pw/_fonts.scss" />
-        <option value="$PROJECT_DIR$/assets/scss/pw/_app.scss" />
-        <option value="$PROJECT_DIR$/header.php" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/assets/scss/pw/_app.scss" />
       </list>
     </option>
   </component>
@@ -259,12 +247,20 @@
       <updated>1530564561441</updated>
       <workItem from="1530564562841" duration="130000" />
       <workItem from="1530564715240" duration="6855000" />
-      <workItem from="1530695548348" duration="4677000" />
+      <workItem from="1530695548348" duration="5229000" />
     </task>
+    <task id="LOCAL-00001" summary="second commit">
+      <created>1530778695326</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530778695326</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11662000" />
+    <option name="totallyTimeSpent" value="12214000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1933" height="1063" extended-state="6" />
@@ -272,7 +268,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" visible="true" weight="0.3295711" />
+      <window_info anchor="bottom" id="Messages" weight="0.3295711" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -284,7 +280,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295711" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25493333" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25493333" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -459,13 +455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/pw/pw.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/scss/pw/_fonts.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="644">
@@ -473,27 +462,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/scss/pw/_app.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/img/PouriWeb-Logo-sharp.png">
+    <entry file="file://$PROJECT_DIR$/assets/img/pw-logo-sharp.png">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="167">
-          <caret line="4233" column="9" lean-forward="true" selection-start-line="4233" selection-start-column="9" selection-end-line="4233" selection-end-column="9" />
+          <caret line="4233" column="9" selection-start-line="4233" selection-start-column="9" selection-end-line="4233" selection-end-column="9" />
+          <folding>
+            <element signature="e#68180#68343#1" expanded="true" />
+            <element signature="e#91225#91468#2" expanded="true" />
+            <element signature="e#92990#93239#2" expanded="true" />
+            <element signature="e#128642#128829#2" expanded="true" />
+            <element signature="e#128929#129118#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/pw/pw.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="16" column="107" selection-start-line="16" selection-start-column="107" selection-end-line="16" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/scss/pw/_app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
         </state>
       </provider>
     </entry>
