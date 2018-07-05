@@ -692,8 +692,8 @@ select.form-control-lg:not([size]):not([multiple]), .input-group-lg > select.for
 }
 
 /* line 35, ../scss/shards/mixins/_forms.scss */
-.was-validated .form-control:valid, .form-control.is-valid,
-.was-validated .custom-select:valid,
+.was-validated .form-control:valid, .form-control.is-valid, .was-validated
+.custom-select:valid,
 .custom-select.is-valid {
   border-color: #17c671;
   box-shadow: 0 5px 11.5px rgba(23, 198, 113, 0.1);
@@ -5450,6 +5450,11 @@ body a.navbar-brand {
 }
 /* line 11, ../scss/pw/_app.scss */
 body a.navbar-brand img {
-  width: 40px;
+  width: 50px;
   height: auto;
+  vertical-align: -21px;
+}
+/* line 17, ../scss/pw/_app.scss */
+body a.navbar-brand h1 {
+  font-size: 30px;
 }

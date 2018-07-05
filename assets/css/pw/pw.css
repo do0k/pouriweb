@@ -44,6 +44,11 @@ body a.navbar-brand {
 }
 /* line 11, ../../scss/pw/_app.scss */
 body a.navbar-brand img {
-  width: 40px;
+  width: 50px;
   height: auto;
+  vertical-align: -21px;
+}
+/* line 17, ../../scss/pw/_app.scss */
+body a.navbar-brand h1 {
+  font-size: 30px;
 }

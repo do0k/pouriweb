@@ -12,10 +12,10 @@
 </head>
 <body>
 <header>
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
+	<nav class="navbar navbar-expand-lg navbar-light bg-light py-0">
 		<a class="navbar-brand ml-3" href="<?php bloginfo('url') ?>">
-			<img src="<?php bloginfo('template_url') ?>/assets/img/pw-logo-sharp.png" class="d-inline-block align-middle ml-2" alt="logo">
-			<h1 class="d-inline-block pw-logo-sharp"><?php bloginfo('title') ?></h1>
+			<img src="<?php bloginfo('template_url') ?>/assets/img/pw-logo-sharp.png" class="d-inline-block ml-2" alt="logo">
+			<h1 class="d-inline-block pw-logo-sharp mb-0"><?php bloginfo('title') ?></h1>
 		</a>
 		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
 			<span class="navbar-toggler-icon"></span>

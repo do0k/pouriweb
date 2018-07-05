@@ -9,8 +9,13 @@ body {
 		font-family: Lalezar, Source Code Pro, cursive;
 		font-size: 25px;
 		& img {
-			width: 40px;
+			width: 50px;
 			height: auto;
+			vertical-align: -21px;
+		}
+
+		& h1 {
+			font-size: 30px;
 		}
 	}
 }
